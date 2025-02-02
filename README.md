@@ -1,5 +1,5 @@
 # Cache-Augmented Generation (CAG)
-[Paper](!https://arxiv.org/html/2412.15605v1)
+[Paper](https://arxiv.org/html/2412.15605v1)
 
 Retrieval-Augmented Generation (RAG) has emerged as a powerful approach for enhancing language models by integrating external knowledge sources. However, RAG also introduces several challenges, including:  
 - **Retrieval Latency** – Delays caused by real-time retrieval steps.  
